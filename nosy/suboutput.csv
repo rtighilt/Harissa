@@ -1,0 +1,5 @@
+packageName,client,RestCalls,Sync,Async,Cache,Timeout
+com.alvinalexander,retrofit,true,false,true,false,false
+com.alvinalexander,com.android.volley,true,true,true,true,true
+com.alvinalexander,java.net.HttpURLConnection,true,true,false,true,true
+com.alvinalexander,com.squareup.okhttp,true,true,true,true,true

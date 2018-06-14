@@ -1,0 +1,75 @@
+Apache HttpClient,org.apache.httpcomponents.httpclient
+Apache HttpClient,commons-httpclient
+OkHttp,com.squareup.okhttp3,com.squareup.okhttp
+Asynchronous Http Client,com.ning.async-http-client
+Apache HttpClient Fluent API,org.apache.httpcomponents.fluent-hc
+Apache HttpAsyncClient,org.apache.httpcomponents.httpasyncclient
+Jetty :: Asynchronous HTTP Client,org.eclipse.jetty.jetty-client
+Google HTTP Client Library For Java,com.google.http-client
+Unirest Java,com.mashape.unirest
+HTTP Client Framework For Groovy,org.codehaus.groovy.modules.http-builder
+Play WS,com.typesafe.play 
+Asynchronous Http Client,org.asynchttpclient
+Dispatch Core,net.databinder.dispatch
+Jersey Apache HTTP Client,com.sun.jersey.contribs
+Scalaj Http,org.scalaj.scalaj-http
+Dropwizard HTTP Client,io.dropwizard.dropwizard-client
+Http Request,com.github.kevinsawicki.http-request
+Android Async Http Library,com.loopj.android.android-async-http
+Core,org.http4s.http4s-core
+Jetty Extra :: Asynchronous HTTP Client,org.mortbay.jetty.jetty-client
+Http Client,io.airlift.http-client
+Jcabi Http,com.jcabi.jcabi-http
+Jodd HTTP Client,org.jodd.jodd-http
+Http Client Experimental,io.airlift.http-client-experimental
+Wasync,org.atmosphere.wasync
+Dropwizard HTTP Client,com.yammer.dropwizard.dropwizard-client
+Httpz,com.github.xuwei-k.httpz
+Http Client Experimental,com.proofpoint.platform.http-client-experimental
+Http Client,com.proofpoint.platform.http-client
+Grizzly Async HTTP Client usages,org.glassfish.grizzly.grizzly-http-client
+Com.metamx:http Client,com.metamx.http-client
+HttpClient Android Library,cz.msebera.android.httpclient
+Curly HTTP Client,com.m3.curly
+Play Ws Standalone,com.typesafe.play.play-ws-standalone
+Skinny Http Client,org.skinny-framework.skinny-http-client
+HttpClient,com.googlecode.openbox.http
+Comsat Httpclient,co.paralleluniverse.comsat-httpclient
+RestEndpoint RestEndpoint,com.github.avarabyeu.restendpoint
+Newman,com.stackmob.newman
+Http Client Common,com.cisco.oss.foundation.http-client-common
+Http Client,io.higgs.http-client
+Http Client Jetty,com.cisco.oss.foundation.http-client-jetty
+Http Client,com.n3twork.druid.http-client
+Basic HTTP Client For Java,com.turbomanage.basic-http-client.http-client-java
+Robust HTTP Client Library,org.jvnet.robust-http-client.robust-http-client
+Corn Http Client,net.sf.corn.corn-httpclient
+Commons Http Client,org.bluestemsoftware.open.eoa.ext.commons-http-client
+LittleShoot Wrapper For Apache HTTP Client,LittleShoot Wrapper For Apache HTTP Client
+Kuali Http Client,org.kuali.common.kuali-httpclient
+Asynchronous Http Client,io.gatling.async-http-client
+HTTP Client Wrapper,hu.meza.tools.http-client-wrapper
+Httpz Native Client,com.github.xuwei-k.httpz-native-client
+NIO HTTP Client,ru.studiomobile.nio_http_client
+Basic HTTP Client For Android,com.turbomanage.basic-http-client.http-client-android
+TOPHE Ion,co.tophe.tophe-ion
+HTTP Client Builder DSL For Groovy,org.codehaus.groovy.http-builder
+Hibiscus HTTP Client,org.aicer.hibiscus.hibiscus-http-client
+Android Http Client,ru.studiomobile.android_http_clientApache
+Wasync,org.atmosphere.wasync-project
+Scetty,info.henix.scetty
+Http,com.github.wenhao.http
+Asynchronous HTTP Client,com.github.faubertin.async-http-client
+Basic HTTP Client,com.turbomanage.basic-http-client.http-clientApache
+Reactive Http,com.lyft.reactivehttp
+Com.davfx:ninio,com.davfx.ninio
+Scala Http Client,fr.hmil.scala-http-client
+RESTy,com.github.parisoft.resty
+Fm Http,com.frugalmechanic.fm-http
+HTTP Requests,org.datoin.net.http-requests
+Http Client,com.github.simplyscala.http-client
+Foursquare Fhttp,com.foursquare.foursquare-fhttp
+Java HttpURLConnection,java.net.HttpURLConnection
+Java HttpsURLConnection,java.net.HttpsURLConnection
+Retrofit,com.squareup.retrofit2,retrofit2
+Google Volley,com.android.volley

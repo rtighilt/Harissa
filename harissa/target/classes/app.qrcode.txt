@@ -1,0 +1,17 @@
+http://data.flurry.com/aap.do
+http://goo.gl/JWIqdb
+http://play.google.com/store/apps/details?id=
+http://plus.google.com/
+http://schemas.android.com/apk/res/android
+http://www.google.com/search?q=
+https://data.flurry.com/aap.do
+https://data.flurry.com/pcr.do
+https://e.crashlytics.com/spi/v2/events
+https://iu6xoulkc1.execute-api.us-east-1.amazonaws.com/prod/client/fillutminfo
+https://iu6xoulkc1.execute-api.us-east-1.amazonaws.com/prod/client/getconfig
+https://iu6xoulkc1.execute-api.us-east-1.amazonaws.com/prod/client/getiaa
+https://iu6xoulkc1.execute-api.us-east-1.amazonaws.com/prod/client/getiaa/
+https://iu6xoulkc1.execute-api.us-east-1.amazonaws.com/prod/client/register
+https://iu6xoulkc1.execute-api.us-east-1.amazonaws.com/prod/iaastatistics/actionlog
+https://onesignal.com/api/v1/
+https://proton.flurry.com/sdk/v1/config

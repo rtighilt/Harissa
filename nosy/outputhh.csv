@@ -1,0 +1,4 @@
+packageName,clients,cache,timeout,sync,async,network
+com.example.loginandroid,[retrofit|okhttp|java.net.HttpURLConnection|retrofit2|com.android.volley],false,false,true,true,false
+com.alvinalexander,[com.android.volley|retrofit|okhttp|java.net.HttpURLConnection|com.squareup.okhttp],true,true,true,true,true
+com.alvinalexander,[retrofit|com.android.volley|java.net.HttpURLConnection|com.squareup.okhttp],true,true,true,true,true

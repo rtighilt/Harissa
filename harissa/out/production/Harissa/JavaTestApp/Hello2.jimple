@@ -1,0 +1,15 @@
+public class Hello2 extends java.lang.Object
+{
+    public int age;
+
+    public void <init>()
+    {
+        Hello2 r0;
+
+        r0 := @this: Hello2;
+
+        specialinvoke r0.<java.lang.Object: void <init>()>();
+
+        return;
+    }
+}

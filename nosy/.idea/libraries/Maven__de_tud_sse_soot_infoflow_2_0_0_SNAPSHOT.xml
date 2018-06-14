@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.tud.sse:soot-infoflow:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tud/sse/soot-infoflow/2.0.0-SNAPSHOT/soot-infoflow-2.0.0-20171106.161309-101.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tud/sse/soot-infoflow/2.0.0-SNAPSHOT/soot-infoflow-2.0.0-20171106.161309-101-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/tud/sse/soot-infoflow/2.0.0-SNAPSHOT/soot-infoflow-2.0.0-20171106.161309-101-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

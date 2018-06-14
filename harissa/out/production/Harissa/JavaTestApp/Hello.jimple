@@ -1,0 +1,66 @@
+public class Hello extends java.lang.Object
+{
+    static java.lang.String s1;
+    static java.lang.String s2;
+
+    public void <init>()
+    {
+        Hello r0;
+
+        r0 := @this: Hello;
+
+        specialinvoke r0.<java.lang.Object: void <init>()>();
+
+        <Hello: java.lang.String s1> = "s1 in constuctor";
+
+        <Hello: java.lang.String s2> = "s2 in constructor";
+
+        return;
+    }
+
+    public static void main(java.lang.String[])
+    {
+        java.lang.String[] r0;
+        java.io.PrintStream $r1;
+
+        r0 := @parameter0: java.lang.String[];
+
+        $r1 = <java.lang.System: java.io.PrintStream out>;
+
+        virtualinvoke $r1.<java.io.PrintStream: void println(java.lang.String)>("Hello world!");
+
+        staticinvoke <Hello: void testmethod(java.lang.String)>("http://foo.com/bar/1/2/3");
+
+        return;
+    }
+
+    public static void testmethod(java.lang.String)
+    {
+        java.lang.String r0;
+        int i0;
+        Hello2 $r1;
+
+        r0 := @parameter0: java.lang.String;
+
+        <Hello: java.lang.String s1> = "s1 in testMetho";
+
+        <Hello: java.lang.String s2> = r0;
+
+        $r1 = new Hello2;
+
+        specialinvoke $r1.<Hello2: void <init>()>();
+
+        i0 = $r1.<Hello2: int age>;
+
+        return;
+    }
+
+    static void <clinit>()
+    {
+        <Hello: java.lang.String s1> = "s1 in declaration";
+
+        <Hello: java.lang.String s2> = "s2 in declaration";
+
+        return;
+    }
+}

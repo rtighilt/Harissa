@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: heros:heros:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/heros/heros/1.0.0-SNAPSHOT/heros-1.0.0-20171106.183359-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/heros/heros/1.0.0-SNAPSHOT/heros-1.0.0-20171106.183359-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/heros/heros/1.0.0-SNAPSHOT/heros-1.0.0-20171106.183359-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

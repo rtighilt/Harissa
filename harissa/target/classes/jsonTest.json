@@ -1,0 +1,171 @@
+{
+  "1forge.com": {
+    "added": "2017-05-30T08:34:14.000Z",
+    "preferred": "0.0.1",
+    "versions": {
+      "0.0.1": {
+        "added": "2017-05-30T08:34:14.000Z",
+        "info": {
+          "contact": {
+            "email": "contact@1forge.com",
+            "name": "1Forge",
+            "url": "http://1forge.com"
+          },
+          "description": "Stock and Forex Data and Realtime Quotes",
+          "title": "1Forge Finance APIs",
+          "version": "0.0.1",
+          "x-apisguru-categories": [
+            "financial"
+          ],
+          "x-logo": {
+            "backgroundColor": "#24292e",
+            "url": "https://api.apis.guru/v2/cache/logo/http_1forge.com_logo.png"
+          },
+          "x-origin": [
+            {
+              "format": "swagger",
+              "url": "http://1forge.com/openapi.json",
+              "version": "2.0"
+            }
+          ],
+          "x-preferred": true,
+          "x-providerName": "1forge.com"
+        },
+        "swaggerUrl": "https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.yaml",
+        "updated": "2017-06-27T16:49:57.000Z"
+      }
+    }
+  },
+  "6-dot-authentiqio.appspot.com": {
+    "added": "2017-03-15T14:45:58.000Z",
+    "preferred": "6",
+    "versions": {
+      "6": {
+        "added": "2017-03-15T14:45:58.000Z",
+        "info": {
+          "contact": {
+            "email": "hello@authentiq.com",
+            "name": "Authentiq team",
+            "url": "http://authentiq.io/support"
+          },
+          "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+          },
+          "termsOfService": "http://authentiq.com/terms/",
+          "title": "Authentiq",
+          "version": "6",
+          "x-logo": {
+            "backgroundColor": "#F26641",
+            "url": "https://api.apis.guru/v2/cache/logo/https_www.authentiq.com_theme_images_authentiq-logo-a-inverse.svg"
+          },
+          "x-origin": [
+            {
+              "format": "swagger",
+              "url": "https://raw.githubusercontent.com/AuthentiqID/authentiq-docs/master/docs/swagger/issuer.yaml",
+              "version": "2.0"
+            }
+          ],
+          "x-preferred": true,
+          "x-providerName": "6-dot-authentiqio.appspot.com"
+        },
+        "swaggerUrl": "https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/swagger.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/swagger.yaml",
+        "updated": "2017-04-04T17:27:32.000Z"
+      }
+    }
+  },
+  "amadeus.com": {
+    "added": "2017-02-01T13:06:13.000Z",
+    "preferred": "1.2",
+    "versions": {
+      "1.2": {
+        "added": "2017-02-01T13:06:13.000Z",
+        "info": {
+          "contact": {
+            "name": "Amadeus Innovation and Research",
+            "url": "https://sandbox.amadeus.com"
+          },
+          "license": {
+            "name": "Amadeus Travel Innovation Sandbox License",
+            "url": "https://sandbox.amadeus.com/terms-use"
+          },
+          "title": "Amadeus Travel Innovation Sandbox",
+          "version": "1.2",
+          "x-logo": {
+            "url": "https://api.apis.guru/v2/cache/logo/https_sandbox.amadeus.com_sites_default_files_amadeus_logo_US_registered_0_0.png"
+          },
+          "x-origin": [
+            {
+              "format": "swagger",
+              "url": "https://raw.githubusercontent.com/amadeus-travel-innovation-sandbox/sandbox-content/master/swagger.yml",
+              "version": "2.0"
+            }
+          ],
+          "x-preferred": true,
+          "x-providerName": "amadeus.com"
+        },
+        "swaggerUrl": "https://api.apis.guru/v2/specs/amadeus.com/1.2/swagger.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/amadeus.com/1.2/swagger.yaml",
+        "updated": "2017-04-04T17:27:32.000Z"
+      }
+    }
+  },
+  "amazonaws.com:acm": {
+    "added": "2017-05-02T07:59:53.000Z",
+    "preferred": "2015-12-08",
+    "versions": {
+      "2015-12-08": {
+        "added": "2017-05-02T07:59:53.000Z",
+        "externalDocs": {
+          "description": "Amazon Web Services documentation",
+          "url": "https://aws.amazon.com/acm/"
+        },
+        "info": {
+          "contact": {
+            "email": "mike.ralphson@gmail.com",
+            "name": "Mike Ralphson",
+            "url": "https://github.com/mermade/aws2openapi"
+          },
+          "description": "<fullname>AWS Certificate Manager</fullname> <p>Welcome to the AWS Certificate Manager (ACM) API documentation.</p> <p>You can use ACM to manage SSL/TLS certificates for your AWS-based websites and applications. For general information about using ACM, see the <a href=\"http://docs.aws.amazon.com/acm/latest/userguide/\"> <i>AWS Certificate Manager User Guide</i> </a>.</p>",
+          "license": {
+            "name": "Apache 2.0 License",
+            "url": "http://www.apache.org/licenses/"
+          },
+          "termsOfService": "https://aws.amazon.com/service-terms/",
+          "title": "AWS Certificate Manager",
+          "version": "2015-12-08",
+          "x-apiClientRegistration": {
+            "url": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct"
+          },
+          "x-apisguru-categories": [
+            "cloud"
+          ],
+          "x-logo": {
+            "backgroundColor": "#FFFFFF",
+            "url": "https://api.apis.guru/v2/cache/logo/https_media.amazonwebservices.com_blog_2007_big_pbaws_logo_300px.jpg"
+          },
+          "x-origin": [
+            {
+              "contentType": "application/json",
+              "converter": {
+                "url": "https://github.com/mermade/aws2openapi",
+                "version": "1.0.0"
+              },
+              "url": "https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/acm-2015-12-08.normal.json",
+              "x-apisguru-direct": true
+            }
+          ],
+          "x-preferred": true,
+          "x-providerName": "amazonaws.com",
+          "x-release": "v4",
+          "x-serviceName": "acm"
+        },
+        "swaggerUrl": "https://api.apis.guru/v2/specs/amazonaws.com/acm/2015-12-08/swagger.json",
+        "swaggerYamlUrl": "https://api.apis.guru/v2/specs/amazonaws.com/acm/2015-12-08/swagger.yaml",
+        "updated": "2017-06-26T18:31:20.000Z"
+      }
+    }
+  }
+}
